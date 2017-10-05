@@ -1,4 +1,4 @@
-baseurl = "https://asciiteam.io/" # Controls base URL
+baseurl = "http://asciiteam.io/" # Controls base URL
 languageCode = "en-US" # Controls site language
 title = "asciiteam / N. Harrison Ripps" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
